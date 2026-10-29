@@ -1,0 +1,14 @@
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\bin\Debug\net8.0\SistemaPastasArquivos.exe
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\bin\Debug\net8.0\SistemaPastasArquivos.deps.json
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\bin\Debug\net8.0\SistemaPastasArquivos.runtimeconfig.json
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\bin\Debug\net8.0\SistemaPastasArquivos.dll
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\bin\Debug\net8.0\SistemaPastasArquivos.pdb
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\obj\Debug\net8.0\SistemaPastasArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\obj\Debug\net8.0\SistemaPastasArquivos.AssemblyInfoInputs.cache
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\obj\Debug\net8.0\SistemaPastasArquivos.AssemblyInfo.cs
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\obj\Debug\net8.0\SistemaPastasArquivos.csproj.CoreCompileInputs.cache
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\obj\Debug\net8.0\SistemaPastasArquivos.dll
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\obj\Debug\net8.0\refint\SistemaPastasArquivos.dll
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\obj\Debug\net8.0\SistemaPastasArquivos.pdb
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\obj\Debug\net8.0\SistemaPastasArquivos.genruntimeconfig.cache
+C:\Padroes-Projetos-C#\Composite\Exercicio-Composite\SistemaPastasArquivos\obj\Debug\net8.0\ref\SistemaPastasArquivos.dll
